@@ -4,7 +4,7 @@ Welcome to the **C++ STL Cheatsheet Repo**! This repository is a concise, beginn
 
 ## 📁 Sections
 
-1. [String STL](./string.md)
+1. [String STL](./Strings.md)
 2. Vector STL *(coming soon)*
 3. Map / Unordered Map *(coming soon)*
 4. Set / Multiset *(coming soon)*
